@@ -1,4 +1,4 @@
-# Deploy Svelte to Render, Nick example
+# Deploy Svelte to Render
 
 This is a project template for [Svelte](https://svelte.dev) apps running on Render. It is forked from at https://github.com/sveltejs/template. See the [minor changes](https://github.com/render-examples/svelte/compare/f92a0a4dfda3a4eff6474ca242c8aea4be9260d1...HEAD) made to the template to allow it to run on Render. A `render.yaml` was added to make the define the service as [Infrastructure-as-Code](https://render.com/docs/infrastructure-as-code), but it is not required.
 
